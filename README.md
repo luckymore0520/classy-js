@@ -1,2 +1,2 @@
 # classy-js
-My Own Class Function For Javascript.
+My Own Class Implementation For Javascript.
